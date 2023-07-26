@@ -1,0 +1,1 @@
+Hi there , this is a text file. I want to transfer it from one socket to another using C programming !
